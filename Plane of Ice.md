@@ -1,0 +1,363 @@
+- Tracked by Velerin - cat and mouse
+	- Velerin seen in statue
+	- Bodies dropped onto frostwitches
+	- Arrow flies by\
+	- Divination magic sensed
+	- No location not visible from Grimskalle peak
+- Mount availability/mount enemy
+- Illusion and traps
+- Permanent night
+# Characters
+- sodal - enchantment/illusion magic empowered
+- Loriel - Levistus!
+- Kel - tease with ice powers? The frost witches etc still want the gratification
+- Togue - galimour hints. There's been a rogue around? Thieves can't?
+	- garment of time? It was mentioned previously that ice elementals can grant lifespan by "freezing" the progression of time. 
+# Start of session
+- Bonfire lit, Primordial Archive used, Panopticon used, Commune used
+- The dragon is a wood dragon, created with wood awakened from the feywild forest
+	- It causes nature to locally bloom around it, even in barren or freezing climates
+- Fire causes the dragon to lose its power of flight, so it takes refuge in the ice. 
+	- It/velerin saw the burning tree?
+- The dragon has been damaged and is missing its horn. The horn has the same bloom effect as the dragon, and it's blooming effect grows towards the dragon.
+- Water loss breath / dessicating breath weapon - topaz dragon stats
+# Secrets
+- 4x potions of supreme healing
+-  Velerin is up on top
+	- Atop the crown jewel, the drakewarden awaits your reunion. 
+	- Frozen cords inspire the prophet of shadow. 
+	- Our ritual was to summon a devil, his is to create one.
+- Galimour is being enchanted to lead the Drow
+	- Has legendary rogue gear. Dangle the carrot infront of togue
+	- ... but ones body must be attuned to poison
+- You appear to be being hunted by Velerin.
+- Caves beneath are carved by the Remorhaz.
+- A spire of Ythryn may be found in the cliffs nearby.
+	- Nass is looking for a way to turn his illusions real using the arcanotech found frozen below. 
+- Levistus sits frozen underneath Grimskalle
+	- The Sunken King
+	- when city was dying he wore a crown that kept him alive but froze him indefinitely
+		- This is from his patron, the water elder elemental, the kraken
+	- Throne room shakes from tendrils
+	- Part of a magic city ruled by 1 sorc / 1 wiz / 1 lock
+- Velerin's dragon dominates the skies nearby.
+- **Real fake vision of a kraken.**
+- The land overflows with illusion magic.
+	- The villas and skies change from moment to moment
+	- Sensation that the storm is hyper localized - can't sense much further out.
+- Inside Grimskalle, Galimour is being subject to a ritual, fueled by 4 Staves:
+	- Each of these staves is behind a Walls of Ice
+- Hauntings
+	- ![[Pasted image 20240722121614.png]]
+# Locations
+## Old locations
+### Intro
+- The effects of the sun's absence has seeped into the Plane of Water, freezing over most of the great expanse
+- A crystalline island 
+### I1 Dock
+- Icebreaking ships, many crashed
+- Headed towards the Plane of Blood (hint that it is liquid)
+	- Frost giant working on hull. Frost Giant Wind Sprinter
+	- Blood giant enchanting hull. Force of Blood
+### I2 Shipwrecks
+- Dead inhabitants of the plane of water pre-freezing. First table or 1d4 for the others
+- ![[Pasted image 20240710160959.png]]
+- ![[Pasted image 20240710233901.png]]
+- ![[Pasted image 20240710234023.png]]
+- ![[Pasted image 20240710234146.png]]
+- ![[Pasted image 20240710235045.png]]
+#### I3: Sinking ship
+- Illusion
+- Velerin's Dragon?
+- Baiting them into " helping" only.to say gotcha isn't the cat and mouse vibe I'm going for.i think
+### I4 Ice statues 30
+- Give party feeling of being watched
+- As storm picks up, arrows are seen
+- Statues reflect as party members but for a brief moment, someone sees a statue resemble Velerin
+- If the statues are physically touched, they activate
+- Chimera 7
+	- ![[Pasted image 20240709214119.png]]
+	- ![[Pasted image 20240709214126.png]]
+- 2x Cruxs of Frost 2x8 (Mammoth, Dire Sabertooth)
+	- 1. Frosted Reflection a creature
+	- 1a. Use Bonus Actions
+	- 2. Use It Stares Back
+	- 3. On a bonus turn, use Frosted Reflection as Velerin
+	- ![[Pasted image 20240707193911.png]]
+- 10x Animal Minions (3x mammoths, 3x king penguins. 4x dire wolves)
+	- ![[Pasted image 20240707194309.png]]
+## I6 Frostwitch circle 27 + 14
+- Three hags: one in a robe of blue rags and white furs, white hair and eyelashes accumulated with snow. Her jaw doesn't stop shivering. Another in unmistakable mammoth pelts and strewn with ivory charms. She carries scars and slightly bestial facial features, like extended tusks and a muscular build. The third weas ethereal, flowing purple silks. Her eyes stay shut even as she focuses on the task at hand, with a dreamcatcher made of abberation bones draped over her neck, encumbering her slightly.
+- Lumiona, Cassia, Sunflower
+- MIRROR OF LIFE TRAPPING
+	- https://5e.tools/items.html#mirror%20of%20life%20trapping_dmg
+	- Magically reduced mirror of life trapping
+	- Surface shows faint images of creatures when viewed indirectly
+	- Action to speak command word and activate it. 
+	- Every other creature taht sees its reflection must succeed on a DC 15 Charisma saving throw or be trapped. Advantage if the creature is familiar with the item, constructs succeed automatic.
+- 3x piles of frozen bodies
+- (Secret) Faint outline of large creature in summoning circle
+- If the piles of bodies are unfrozen
+	- At the start of every turn, the # of bodies frozen adds +1 count. Ice Devil is summoned with souls = count at the start of the 3rd round. 
+	- Can be destroyed with 40hp, vulnerable to fire, radiant, bludgeoning, thunder damage, resistant to slashing and piercing.
+- A 4th pile gets dropped by the wood dragon.
+	- That appears to have no rider (invisible rider, velerin!)
+	- What is in the 4th pile? Is it more bodies or a bomb?
+		- Glyph DC 17 Dex or take 5d8 cold damage
+- Hags cast Spite as they die
+	- DC 17 Wisdom save
+- Slice open kel's stomach, take the gastrolith back!
+- Hints about Grimskalle
+	- Atop the crown jewel, the drakewarden awaits your reunion. 
+	- Frozen chords inspire the prophet of shadow. 
+	- Our ritual was to summon a devil, his is to create one. 
+- If they roll really well, give them the ceremonial mask from Lumiona
+- 3x Frostwitch
+	- Counterspell
+	- 135 HP
+	- Blue/Icy casts Maddening Darkness (concentration) to start the fight and then Hide Sister (or Control Weather)
+		- Emphasis on psychic
+		- Tougher vision, disadvantage on perception checks relying on sight
+		- Non-magical light under 8th level doesn't work.
+		- At the end of the hag's turn, each creature must succeed DC 17 Con or take 28 + 2d8 psychic damage, or half.
+	- Purple/Slumbering casts Sleepwalk (or Mind Spike) and then Scatter to turn the tides.
+	- White/Thorns casts Wild Shape and Enlarge.
+	- Lair Action: A frostwitch readies an action.
+	- Maddening Darkness deals damage every turn, concentration.
+	- ![[frostwitch (8).png]]
+	- Mammoth
+		- +10. 21 + d8, extra d8 per Enlarge
+		- ![[Pasted image 20240723202659.png]]
+- 1x Chimeron Ice Devil. 3-5 10 HP, 6-7 100 HP, 8-9 200 HP
+- Oracle d20 die determines fixation on levistus
+	- 1 he is indifferent, 20 he is hyperfocused and runs there immediately
+	- Levistus' soul will be mine!!/How dare I get dragged to the outskirts of this place? I deserve an audience
+	- Lair action: Velerin shoots from the shadows, 
+	- +15 with disadvantage, 14 + d8 psychic and piercing
+	- Wall gets "dropped,"
+	- ![[ice devil (2).png]]
+## I5 Remorhaz caves 22
+- Dead drow nearby? - Galimour's house
+	- Galimour was brought to the plane of water to learn history about the collapsed arcane city of Ythrin, a society that rapidly progressed, and collapsed just as quickly
+	- This is a fancy way of saying Senithara knows galimour needs to lead her Drow
+	- poisons
+- Alternative entrance to dungeon
+- DC20 They raise spawn one at a time and are very protective of their brood
+	- ![[Pasted image 20240717231513.png]]
+	- ![[Pasted image 20240717231521.png]]
+- Remorhaz p368
+	- Lair action: Creatures caught in the water take 4d6 cold damage, and cold weather clothing grants no benefit for 1 hour.
+	- Heats up when bloodied, half cover in tunnels
+	- Heat visibly radiates through its body
+	- Spawn is eating carcasses down both paths
+	- Swallows and swims
+	- Plays dead
+	- Cold: 
+	- ![[Pasted image 20240717231537.png]]
+- Spawn
+	- 2x5, DEFINITELY feeding on some mammoth
+	- ![[Pasted image 20240717231624.png]]
+## IX Glacier Shelf - Mini Spire of Ythrin
+- When the characters come within sight of the section of the spire that's visible on the surface, read A twenty-foot-high, irregularly shaped spur of rock juts out of the tundra ahead of you. Its smooth and shiny surface cannot possibly have been worn down by the wind. No, this protrusion looks utterly out of place, as if it had been thrust into the ground. A character who examines the protrusion can make a DC 15 Intelligence (History) check to discern its nature. (A dwarves' Stonecunning trait can prove useful here.) On a successful check, the character can confirm that the stone is neither naturally formed nor manually hewn, but rather shaped by magic. If the check succeeds by 5 or more, the character also discerns that that the protruding rock is of the top of a larger structure that continues underground.
+- https://5e.tools/adventure.html#idrotf,12,lost%20spire%20of%20netheril
+- Shield guardian. Demonstrate your capability (construct recognizes similar magic to academy teachings)
+	- Any non-necromantic cast of 5th level or higher will do 
+- Nothics - elves that have spent centuries near raw magical sources, only to be cut from the source
+	- Typically not possible with humans due to lifespan
+- Upside-down library
+	- Scroll of Thermodynamic Seeming
+	- We have kept shelter in this spire for 367 years - the recent cold spell hasn't been the worst thing we've kept safe from. 
+	- However, we've taken note as we suspect it means that the Ley Engine has been energized.
+	- At the intersection of ley lines, this magical superdevice can turn illusions into real creatures and real objects.
+	- NPCs, from the Netherese Brotherhood of Ythryn:
+		- Perhaps they grant the Ceremonial Mask
+			- ![[Pasted image 20240731230329.png]]
+		- Dzaan, Nothic that has been too far from a magical source
+			- ![[Pasted image 20240731223958.png]]
+		- Nass, a simulacrum
+			- He's looking for a way to turn himself (an illusion) into reality
+			- ![[Pasted image 20240731225859.png]]
+		- The big bad wizard is Avarice
+- d6 for books:
+	- *+1 to learned*
+	- _Magical Harmonies of Ythrin._ This book is a collection of interviews with Ythrin archmages, who discuss their studies of ancient elven magic and the creation of seven divine instruments.
+	- _Ajamar's Guide to the Phantastic._ This breezy, lighthearted treatise on illusion magic was required reading in many Netherese classrooms. It describes clever ways to use common illusion spells.
+	- _The Unfettered Mind_. This lunatic text discusses how one might exist solely as a disembodied brain, preserved for eons in a magical suspension fluid. It includes sketches of brains in jars.
+	- _From Shadow, Substance_. This speculative work discusses how one might harness the Weave to turn an illusory object or creature into its real counterpart, with commentary and criticism from noteworthy Netherese illusionists.
+	- _Here Lies the King._ This elaborately plotted novel features an illusionist who uses magic to impersonate a prince, supplant a king, rule a fictional kingdom for sixty-one years, and fake his own death.
+	- Reading room has a silence spell cast on it.
+	- Locked chest - four potions of resistance - fire, cold, lightning, acid
+- Specimen of a Dimensional Shambler
+	- Covered with cloth
+	- In anti-dimensional cage
+	- Looks like a rift from soldryns cave that got worse
+	- ![[Pasted image 20240727215712.png]]
+## Approach 24
+- Dead drow before/nearby - of Galimour's house
+	- Galimour was brought to the plane of water to learn history about the collapsed arcane city of Ythryn, a society that rapidly progressed, and collapsed just as quickly
+	- poisons?
+- if they try to simply fly above/over....
+	- animal handling. First flower preinitiative, second at 20, third at 10. Frost Giant Storm Hurler attacks at 5 - could latch.
+	- In between blasts, players may take a skill challenge-like action to gain advantage on their next check.
+	- DC 18. 23 or more means you avoid 2. 
+	- When you reach the calmer center of the storm, DC 12 Con save or +1 exhaustion.
+		- Enforce this. Velerin wouldn't sit in a keep that can be intruded by simply glitching out of the skybox
+- Main ideas: **Beacon of Blood, Flowers of Frost, Illusory Section**, heat seeking harpoons
+- each bridge has a void from the storm because of the force of blood manning each bridge, radiating heat.  **Force of Blood has visceral sight.**
+- Dangerous weather except for within 30 feet of the elemental?
+	- The storm is harder to see through, but not a psychic spell, so it doesn't do as much damage. Blinded condition and DC 15 con save at initiative 20 or 14 + d8 cold damage.
+- Bridge has an illusory open section
+- Storm Hurler
+	- Have Gust of Wind spell
+	- +1 weapon (+10 to hit), chains target and can't move farther away, at the end of its turns it is pulled 10 feet closer. Action to make DC 15 Athletics check, deals 2d8 piercing damage when dislodged.
+	- Advantage when targeting dragons with the chains. They're the anti-dragon chains they've been seeing each time they encounter giants!
+	- ![[Pasted image 20240709232138.png]]
+	- ![[Pasted image 20240717234515.png]]
+- 1x Force of Blood,  on Rend from Within, transfer 2d12 damage to 2 more hit die, and make the subzero hit die do 2x damage.
+	- 160 HP
+	- ![[Pasted image 20240729120508.png]]
+- Ground level, clue that up is Velerin and down is the Throne of Levistus
+## Inside
+## Trap, treasure
+- This spiral staircase consists of a central pillar in a 90-foot-deep shaft. Stone steps connect the central pillar to the walls of the shaft. These steps fit into shallow slots cut into the wall. Characters who descend the staircase to the bottom discover a gap between the last step and the floor of the lower chamber. Among these stairs, spaced approximately 15 feet apart, are several steps deliberately designed to break. These false steps appear nearly identical to the solid steps, though a DC 20 Perception check notices the almost imperceptible cracks. A character who steps on a “breakaway stair” risks falling through the broken tread and falling down to the next twist of the spiral staircase (DC 15 Dex save). Once a step had broken away, any contact with the stairs sets the whole central column swinging. Each round, all characters on the steps must make a DC 10 Dex save to avoid the “pendulous staircase.” The DC of this Dex save increases by 1 for every one of the 14 breakaway stairs that is broken. If a character fails her Dex save, roll 1d20 and add the number of stairs broken, then reference the Pendulous Staircase Effects chart to determine how the stairs’ movement imperils the character.
+- ![[Pasted image 20240824212524.png]]
+- Treasure at the top!
+## Basement 30 + ice + galimour
+- **At the end of this fight, begin transitioning the location via illusion**
+- PCs coming in through back entrance so tease reflection
+- Sirens locked up in back entrance
+- Bait: just galimour, but Glyph of Elemental Bane.
+	- DC 21 investigation or arcana
+	- Elemental Bane DC 21 Con save or +2d6 from cold damage for 1 minute
+- Place troop in hall (?)
+- Walls:
+	- AC 12 and 30 hit points,, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a DC 15 Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
+- Do lair actions?
+	- 1 legendary resistance. Direct to Drow troop. If aoe, they also take 6d8 psychic damage
+- *This is your path! The opportunity of the elves-once-banished shall not be stopped by old friendships! Take your place, lead your people!*
+- Galimour 7
+- Legendary roguish ring. Ring of the Assassin Lord
+	- 17 AC
+	- Dominate Person 8th level ench
+	- Freedom of Movement 4th level abj
+	- Modify Memory 8th level ench
+		- Removing this reinstates the damage break on Dominate Person
+	- Death Ward 4th level abj
+	- Photo
+		- ![[Pasted image 20240301234104.png]]
+	- ![[Pasted image 20240827214158.png]]
+- female Fey 13
+	- FEAR AT WILL?
+		- You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb) for the duration. While [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb) by this spell, a creature must take the [Dash](https://5e.tools/actions.html#dash_phb) action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
+	- pushes party down halls with LoS effect
+		- DC 18 Wis save or disoriented
+		- DC 18 Dex save if they move or fall prone
+	- Improved saving throws
+		- +5 Int, +7 Wis
+		- LegRes per Drow troop,  must transfer condition to warrior
+	- Photo
+		- ![[Pasted image 20240826204732.png]]
+	- ![[Pasted image 20240827214950.png]]
+- Drider 8
+	- ![[Pasted image 20240824153455.png]]
+- 3x3 troops. 16 AC
+	- ![[E2401250-1053-4A8D-AE44-6B4C6525AF5C.jpeg]]
+- Duplicate. Uses it stares back
+	- Assume reaction bonus action is used. Reaction to reflect an attack
+	- Visually, this is the reflection adding onto each instance of damage
+	- ![[DF51B3E4-EB03-4194-893A-E05FFAF47D50.jpeg]]
+
+## Velerin 20 + 20 
+- Velerin
+	- Borders of the arena are where reflections can/can't reveal themselves
+	- USE YOUR FUCKING REACTION!
+	- Sure Seat
+	- 4 LRs. 1 from dragon triggered by dismounting. other 3 from spears.
+	- LR = Spear Sacrifice. Does cold damage
+	- Each multiattack is 4x attack, 1x cantrip, can replace with Spear
+	- Bonus attack. Hide > Misty Step
+	- Use reaction
+	- ![[velerin (4).png]]
+- Eranikus
+	- ![[eranikus (2).png]]
+# 4. Loot & NPCs
+⭕look here for loot⭕
+https://drive.google.com/file/d/1W0VGFNevP2MFDGQKuFv2BcTcOAUgFaBh/view
+![[5D6A2096-E99E-4D57-9728-B14EBBDE9B04.png]]
+- Fear Smith
+- Galimour
+- Velerin
+- Levistus
+	- The magical city state of Anathos was super magical and powerful and smart. They were ruled by a council of 3; a sorcerer, a warlock, and a wizard. Their philosophy was that a council of one born of magic, one courageous enough to claim magic, and one smart enough to learn magic could lead and protect the city-state through the end of time. Until, they couldn't. The warlock, 
+- Kelevor
+	- Ring of Eldritch Ire
+	- Ice Dragon Whetstone VR
+		- Preserved dragon scales can take on magical properties, either when near fonts of magic or with the help of a skilled artificer or enchanter. This whetstone made of such a scale and appear almost gem-like in appearance.
+		- **Sharpen**. You can use the _ice dragon whetstone_ over the course of 1 minute to sharpen a bladed weapon, granting it +3d4 cold damage for 1 hour. These bonuses are in addition to any other bonuses a weapon may have.  A whetstone has 5 uses. When you use the last use, it loses its gem-like shine and becomes a nonmagical scale.
+- Sodal
+	- Cloak of the Cnidaran. rare
+		- This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+		- Prismatic Shimmer. As an action while wearing this cloak, you can cause it to shimmer in a pleasing and distracting array of colors for 10 minutes. For the du- ration, you have advantage on Deception, Performance, and Persuasion checks. Once this property of the cloak has been used, it can’t be used again until the next dawn.
+		- Nematocyst Fibres. As an action while wearing this cloak, you can cause its fibres to become aggressive for 1 minute. The cloak shimmers in shades of red and mauve, giving you advantage on Intimidation checks against creatures that can see you. As part of the action to activate the fibres, and as an action on subsequent turns, you can cause the cloak’s filaments to brush against a creature within 10 feet of you. The target must succeed on a DC 15 Constitution saving throw or become poisoned until the start of your next turn. Until this poison ends, the target is stunned. After a creature succeeds on this saving throw, it is immune to the effects of the cloak for the next 24 hours. Once this property of the cloak has been used, it can’t be used again until the next dawn.
+	- Brilliant Sapphire
+		- When you break this gem, become learned in two creature types that you are nearby, dead or alive. You gain +4 to your Intelligence score for the next 24 hours.
+- Loriel
+	- Gem of Seeing
+		- This gem has 2 charges you can use each day. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem; no illusion, mistruth, or subtlety can escape your eyes.
+			- A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+	- Scroll of Abi-Dalzim's Horrid Wilting
+		- You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
+- Togue
+	- Bow of Mind Thievery. +1 shortbow, 2d6 piercing + psychic, 80/320 feet
+		- Arrows fired from this magic bow deal an extra 1d6 psychic damage to any creature that they hit (included).
+		- When you hit a humanoid with an arrow in this way, you can force that creature to make a DC 15 Wisdom saving throw after the attack. On a failed save, that creature falls under the effects of the _dominate person_ spell for up to 1 minute as if cast by you. This effect does not require concentration. In addition, you can use a bonus action to see through that creature’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses. Once this property of the bow has been used, it can’t be used again until the next dawn.
+	- Magebane Poison
+		- This dark, bubbling poison is made from a rakshasa's magic-immune blood and tastes sweet and syrupy, despite its gruesome appearance. Each bottle contains one dose of the poison. A creature that ingests this poison must make a DC 19 Constitution saving throw. On a failed save, a creature takes 4d6 poison damage and is poisoned for 1 hour. If the poisoned creature is a spellcaster, it takes an additional 4d6 psychic damage and can't cast cantrips until this poison ends. In addition, a poisoned spellcaster can only cast spells of 1st level or higher by using a spell slot at least 4 levels higher than the desired slot level, without the added benefits of using the higher spell slot level. On a successful save, a creature takes half as much poison and psychic damage and isn't poisoned.
+- 1. Potion of Blood Giant Strength
+	- Is this just... the blood of a Blood Giant? 
+	- 29 strength for 1 hour
+	- Hint hint kelevor
+- 2. Glyph of Greater Restoration
+	- Can be used as a bonus action
+	- You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb) level by one, or end one of the following effects on the target:
+		- One effect that [charmed](https://5e.tools/conditionsdiseases.html#charmed_phb) or [petrified](https://5e.tools/conditionsdiseases.html#petrified_phb) the target
+		- One curse, including the target's attunement to a cursed magic item
+		- Any reduction to one of the target's ability scores
+		- One effect reducing the target's hit point maximum
+- 3. Arcanowax Candle
+	- It’s always reassuring to enter the territory of extraplanar entities with a lit arcanowax candle. However, due to the cripplingly expensive reagents required to make such a candle—namely oils from celestials, fey, fiends, and undead—the Bureau keeps these under tight wraps, leading to a thriving trade in arcanowax knockoffs on the grey market. When found, an arcanowax candle has 2d4 + 1 charges.
+	- **Light**. As an action, you can light the candle, expending 1 charge and causing it to shed bright light in a 10-foot-radius, 20-foot-tall cylinder for 1 minute. The area of the light replicates the effects of the magic circle spell. If the candle is moved in such a way that would result in one of those creatures entering the area of the light, the candle is snuffed out.
+	- ![[Pasted image 20240806180024.png]]
+- 4. Astral Caltrops R
+	- As an action, you can spread these magic caltrops over a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. When this happens, the caltrops explode in a burst of extraplanar energy, destroying the caltrops and dealing 6d6 force damage to the creature and causing it to rise vertically up to 20 feet, as if by the _levitate_ spell. The creature remains suspended in this way for 1d4 rounds, during which time its speed becomes 0. The effect ends early if the creature takes any damage. 
+	- **Scatter**. When the caltrops are spread on the ground, they become nearly invisible and float up to 1 inch off the ground. A creature notices the caltrops with a successful DC 20 Wisdom (Perception) check. You can reclaim the invisible caltrops for later use with 1 minute of careful searching and collecting. The caltrops stop floating and become visible once they're reclaimed in this way
+	- ![[Pasted image 20240806184514.png]]
+- 5. Magebane Poison VR
+	- This dark, bubbling poison is made from a rakshasa's magic-immune blood and tastes sweet and syrupy, despite its gruesome appearance. Each bottle contains one dose of the poison. A creature that ingests this poison must make a DC 19 Constitution saving throw. On a failed save, a creature takes 4d6 poison damage and is poisoned for 1 hour. If the poisoned creature is a spellcaster, it takes an additional 4d6 psychic damage and can't cast cantrips until this poison ends. In addition, a poisoned spellcaster can only cast spells of 1st level or higher by using a spell slot at least 4 levels higher than the desired slot level, without the added benefits of using the higher spell slot level. On a successful save, a creature takes half as much poison and psychic damage and isn't poisoned.
+	- ![[Pasted image 20240806184501.png]]
+- 6. Ice Dragon Whetstone VR
+	- Certain preserved dragon scales can take on magical properties, either naturally on their own or with the help of a skilled artificer or enchanter. These whetstones are made of such a scale and appear almost gem-like in appearance.
+	- **Sharpen**. You can use the _ice dragon whetstone_ over the course of 1 minute to sharpen a bladed weapon, granting it +3d4 cold damage for 1 hour. These bonuses are in addition to any other bonuses a weapon may have.  A whetstone has 5 uses. When you use the last use, it loses its gem-like shine and becomes a nonmagical scale.
+- 7. Scroll of Abi-Dalzim's Horrid Wilting VR
+	- You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
+- 8. Treatise of Water Elementals VR
+	- This vault of knowledge holds chapters of information on water elementals, their physical makeup, origin worlds, physical features, dialects, role in the cosmology, enchantment and illusion favorabilities, and combat tactics.
+	- Become learned in water elementals. Learn Aquan.
+
+- Boreal Pendant. very rare (requires attunement)
+	- This enlarged, floating snowflake is magically held in place and changes its shape as temperatures fluctuate. While attuned to the pendant you have resistance to cold damage and give off an aura of cheeriness. The snowflake has 8 charges and regains 1d6+2 expended charges each day at dawn. While wearing it, you can expend 1 or more of its charges to cast the following spells using a spell save DC of 15: _charm person_ (1 charge), _color spray_ (1 charge), _hypnotic pattern_ (3 charges), or _ice storm_ (4 charges). If you expend the pendant’s last charge, roll a d20. On a 1, the snowflake melts into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that hold it in place.
+- Cloak of the Cnidaran. very rare (requires attunement)
+	- Made of magical cnidaran shimmerweave, this cloak shifts its hue with the emotions of its attuned wearer. The Deep King’s court jester used to wear one such raiment, making his acrobatic and charismatic displays all the more entertaining. 
+	- Prismatic Shimmer. As an action while wearing this cloak, you can cause it to shimmer in a pleasing and distracting array of colors for 10 minutes. For the duration, you have advantage on Deception, Performance, and Persuasion checks. Once this property of the cloak has been used, it can’t be used again until the next dawn.
+	- Nematocyst Fibres. As an action while wearing this cloak, you can cause its fibres to become aggressive for 1 minute. The cloak shimmers in shades of red and mauve, giving you advantage on Intimidation checks against creatures that can see you. As part of the action to activate the fibres, and as an action on subsequent turns, you can cause the cloak’s filaments to brush against a creature within 10 feet of you. The target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of your next turn. Until this poison ends, the target is paralyzed. After a creature succeeds on this saving throw, it is immune to the effects of the cloak for the next 24 hours. Once this property of the cloak has been used, it can’t be used again until the next dawn.
+- Cloak of Arachnida. very rare (requires attunement)
+	- This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+		- You have resistance to poison damage.
+		- You have a climbing speed equal to your walking speed.
+		- You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
+		- You can't be caught in webs of any sort and can move through webs as if they were [difficult terrain](https://5e.tools/quickreference.html#bookref-quick,3,difficult%20terrain).
+		- You can use an action to cast the [web](https://5e.tools/spells.html#web_phb) spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.
+- Ironleaf Plate. Armor (light, medium, or heavy), very rare (requires attunement)
+	- This set of armor gives you a +1 bonus to your AC and is lined with ironleaf vines. While wearing this armor, the vines seem to support and quiet its normally loud movements, allowing you to make Dexterity (Stealth) checks without disadvantage. In addition, the vines dampen the impact you receive from blunt force, granting you resistance to bludgeoning damage.
+	- If you take fire damage, the leaves wither for 1 minute. While the leaves are withered, you gain none of their benefits.
+	- **_Mantle of the Wild._** While wearing this armor, you can use an action to cast the _pass without trace_ spell from it. Once used, this property can’t be used again until the following dawn.j
