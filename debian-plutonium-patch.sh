@@ -55,40 +55,61 @@ fi
 log "Installing Plutonium backend."
 cp "${MODULE_BACKEND_JS}" "${FOUNDRY_HOME}/resources/app/"
 
-# Step 3: Install the patch utility using Debian's package manager
+# Step 3: Modify FoundryVTT's startup file using sed (no additional packages needed)
 log "Patching ${MAIN_JS} to use plutonium-backend."
 
-# This is the key change: use apt-get instead of apk for Debian systems
-# First update the package database, then install patch
-apt-get update -qq && apt-get install -y patch
+# Create a backup of the original main.mjs file before making any changes
+# This allows us to restore the file if something goes wrong
+cp "${MAIN_JS}" "${MAIN_JS}.backup"
 
-# Step 4: Apply the patch to modify FoundryVTT's startup file
-# This patch changes the initialization from synchronous to asynchronous
-# and adds the Plutonium backend initialization call
-patch --backup --quiet --batch ${MAIN_JS} << PATCH_FILE
-26c26
-< init.default({
----
-> await init.default({
-31c31,32
-< })
----
-> });
-> (await import("./plutonium-backend.mjs")).Plutonium.init();
-PATCH_FILE
+# Step 4: Use sed to make the necessary modifications
+# Sed is a stream editor that can find and replace text patterns
+# It's available in virtually all Linux systems, including containers
 
-# Check if the patch was applied successfully
-patch_result=$?
-if [ $patch_result = 0 ]; then
-    log "Plutonium backend patch was applied successfully."
+log "Creating modified version of main.mjs with Plutonium backend integration"
+
+# First sed command: Change 'init.default({' to 'await init.default({'
+# This makes the initialization call asynchronous, which is required for Plutonium
+# The 's/' syntax means "substitute", the 'g' at the end means "global" (all occurrences)
+sed 's/init\.default({/await init.default({/g' "${MAIN_JS}" > "${MAIN_JS}.tmp1"
+
+# Second sed command: Find the closing '})' and replace it with the Plutonium initialization
+# We need to be careful here because there might be multiple '})' patterns in the file
+# We specifically look for the final '})' that ends with '});' on its own line
+# and replace it with the Plutonium backend initialization call
+sed 's/^})$/}); (await import(".\/plutonium-backend.mjs")).Plutonium.init(); });/' "${MAIN_JS}.tmp1" > "${MAIN_JS}.tmp2"
+
+# Alternative approach for the closing modification that's more robust:
+# Look for the specific pattern that ends the main function and replace it
+# This pattern matches the end of the async function more precisely
+sed 's/});$/}); (await import(".\/plutonium-backend.mjs")).Plutonium.init(); });/' "${MAIN_JS}.tmp1" > "${MAIN_JS}.tmp2"
+
+# Step 5: Verify that our modifications were successful
+# We check that both required changes are present in the modified file
+if grep -q "await init.default" "${MAIN_JS}.tmp2" && grep -q "Plutonium.init" "${MAIN_JS}.tmp2"; then
+    log "Plutonium backend modifications applied successfully."
+    log "Replacing original main.mjs with modified version."
+    
+    # Replace the original file with our successfully modified version
+    mv "${MAIN_JS}.tmp2" "${MAIN_JS}"
+    
+    # Clean up temporary files
+    rm -f "${MAIN_JS}.tmp1"
+    
     log "Plutonium art and media tools will be enabled."
+    log "Backup of original file saved as ${MAIN_JS}.backup"
 else
-    log_error "Plutonium backend patch could not be applied."
-    log_error "main.js did not contain the expected source lines."
-    log_warn "Foundry Virtual Tabletop will still operate without the art and media tools enabled."
-    log_warn "Update this patch file to a version that supports Foundry Virtual Tabletop ${FOUNDRY_VERSION}."
-    # Restore the original file if the patch failed
-    mv "${MAIN_JS}.orig" "${MAIN_JS}"
+    log_error "Plutonium backend modifications failed verification."
+    log_error "The modified file doesn't contain the expected changes."
+    log_warn "Foundry Virtual Tabletop will still operate without the enhanced features."
+    
+    # Restore the original file since our modifications failed
+    mv "${MAIN_JS}.backup" "${MAIN_JS}"
+    
+    # Clean up temporary files
+    rm -f "${MAIN_JS}.tmp1" "${MAIN_JS}.tmp2"
+    
+    log_error "Original main.mjs file has been restored."
 fi
 
 # Step 5: Copy additional Plutonium files if they exist
